@@ -30,7 +30,7 @@ public class BeardScript : MonoBehaviour {
             beardExtendo = false;
         }
         
-       // transform.position = parent.transform.position;
+        transform.position = parent.transform.position;
 
         if (beardExtendo)
         {

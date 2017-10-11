@@ -45,10 +45,7 @@ public class PlayerMovement : MonoBehaviour
         }
         if (isPlayerOne == false)
         {
-            if (Input.GetKeyDown("uparrow"))
-            {
-                player1RB.AddForce(transform.forward * speed);
-            }
+            
             if (Input.GetKeyDown("leftarrow"))
             {
                 player1RB.AddForce(transform.right * -speed);
@@ -57,10 +54,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 player1RB.AddForce(transform.right * speed);
             }
-            if (Input.GetKeyDown("downarrow"))
-            {
-                player1RB.AddForce(transform.forward * -speed);
-            }
+           
         }
     }
 }

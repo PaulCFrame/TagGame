@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8220f8e1f97cb5e4eb24d3121d3d575c
+timeCreated: 1507715934
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Japanese Brush
+  fontNames:
+  - Japanese Brush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
